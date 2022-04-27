@@ -1,0 +1,29 @@
+.container{
+    display: flex;
+    height: 100vh;
+}
+
+.control{
+    width: 20%;
+    padding: 1em;
+    background: #14161a;
+    color: #fff;
+}
+
+.control input {
+
+}
+
+.map-container{
+    width: 100%;
+    height: 100vw;
+}
+
+.map{
+    width: 80%;
+    height: 100vh;
+}
+.highlight {
+    font-size: 1.25rem;
+    font-weight: bold;
+}
